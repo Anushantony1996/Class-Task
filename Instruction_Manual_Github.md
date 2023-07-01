@@ -15,3 +15,4 @@
 | Preparation for Use | 3 |
 | How to Straighten Your Hair | 4 |
 | After Use | 5 |
+
