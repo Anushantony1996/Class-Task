@@ -20,7 +20,6 @@
 
 - Do not use this appliance near water.
 - Do not use this appliance near bathtubs, showers, basins, or other vessels containing water.
-![shower](https://github.com/Anushantony1996/Class-Task/assets/138283153/9c8fc07f-f276-4709-93f6-0a71190f8bc7)
 - Always unplug the appliance after use.
 - Do not pull the power cord after using. Always unplug the appliance by holding the plug.
 - Burn hazard. Keep appliance out of reach from young children, particularly during use and cool down.
@@ -32,6 +31,7 @@
 - Only use the appliance on dry hair.
 - Do not operate the appliance with wet hands.
 - Always return the appliance to a service center authorized by Reva for examination or repair.
+![download](https://github.com/Anushantony1996/Class-Task/assets/138283153/8c8654c3-2628-4880-b4e3-0a5b100f31ff)
 
 # Preparation for Use
 
