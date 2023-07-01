@@ -11,7 +11,7 @@ leading to the generation of assistive devices.
 
 > The promising future predicted for **BCI** has encouraged research
 community to study the involvement of ***BCI*** in the life of ___non-paralyzed___ humans
-through medical applications.
+through medical applications.[^1]
 
 `The promising future predicted for BCI has encouraged research
 community to study the involvement of BCI in the life of non-paralyzed humans
@@ -29,3 +29,4 @@ through medical applications.`
 | Prevention | Detection | Rehabilitation |
 | ---------- | --------- | -------------- |
 | Smoking | Tumors | Brain Stroke |
+[^1]: This is the first footnote
