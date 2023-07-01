@@ -25,3 +25,7 @@ through medical applications.`
     1. Prevention
     2. Detection
 3. Educational
+
+| Prevention | Detection | Rehabilitation |
+| ---------- | --------- | -------------- |
+| Smoking | Tumors | Brain Stroke |
