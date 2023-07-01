@@ -18,14 +18,14 @@
 
 # Safety Instructions
 
-- Do not use this appliance near water.
+- Do not use this appliance near **water**.
 - Do not use this appliance near bathtubs, showers, basins, or other vessels containing water.
-- Always unplug the appliance after use.
+- Always __unplug__ the appliance after use.
 - Do not pull the power cord after using. Always unplug the appliance by holding the plug.
-- Burn hazard. Keep appliance out of reach from young children, particularly during use and cool down.
+- __*Burn hazard*__. Keep appliance out of reach from young children, particularly during use and cool down.
 - Do not use the appliance for any other purpose other than described in this manual. 
 - Do not leave the appliance unattented when it is connected to the power.
-- Wait until the appliance has cooled down before you store it. 
+- Wait until the appliance has **_cooled down_** before you store it. 
 - Pay full attention when using the appliance sin it could be extremely hot.
 - Always place the appliance with the stand on a heat-resistant surface.
 - Only use the appliance on dry hair.
@@ -56,7 +56,7 @@
 6. Place the sectioned hair between the plates and press the handles firmly together. 
 7. Slide the straightener down the length of your hair slowly 1 cm away from the roots to ends.
 8. Follow the same steps to straighten the rest of the hair.
-9. You will now left with a straight and smooth hair.
+9. You will now left with a straight and smooth hair.😄
 10. You can also watch a video on how to straighten your hair.[^1]
 
 ![george-bohunicky-qJKT2rMU0VU-unsplash](https://github.com/Anushantony1996/Class-Task/assets/138283153/7eb5f871-b9a5-4df9-b6e1-b8ae87102d6c)
