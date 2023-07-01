@@ -57,6 +57,7 @@
 7. Slide the straightener down the length of your hair slowly 1 cm away from the roots to ends.
 8. Follow the same steps to straighten the rest of the hair.
 9. You will now left with a straight and smooth hair.
+10. You can also watch a video on how to straighten your hair.[^1]
 
 ![george-bohunicky-qJKT2rMU0VU-unsplash](https://github.com/Anushantony1996/Class-Task/assets/138283153/7eb5f871-b9a5-4df9-b6e1-b8ae87102d6c)
 
@@ -64,5 +65,7 @@
 * Switch off the appliance and unplug it.
 * Place it on a heat-resistant surface until it cools down.
 * Clean the appliance and straightening plates with a damp cloth.
-* Keep it in a safe and dry place or hang it with the hanging loop (     ). 
+* Keep it in a safe and dry place or hang it with the hanging loop. 
 * Once the appliance cools, keep it in a place out of reach of children.
+
+[^1]: How to straighten your hair?
