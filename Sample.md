@@ -17,3 +17,8 @@ community to study the involvement of BCI in the life of non-paralyzed humans
 through medical applications.`
 
 [Link](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
+
+### BCI Application
+
+1. Medical
+2. Educational
