@@ -45,3 +45,16 @@
 | Thick | 210 to 230 Degrees |
 | Normal | 180 to 200 Degrees |
 | Fine | 160 Degrees |
+
+# How to Straighten Your Hair?
+
+1. Connect the plug to the power supply.
+2. Turn on the switch.
+3. Press the power button.
+4. Slide the button from 0 to 1 for higher temperature.
+5. Comb you hair and take 1 inch section for straightening.
+6. Place the sectioned hair between the plates and press the handles firmly together. 
+7. Slide the straightener down the length of your hair slowly 1 cm away from the roots to ends.
+8. Follow the same steps to straighten the rest of the hair.
+9. You will now left with a straight and smooth hair.
+![george-bohunicky-qJKT2rMU0VU-unsplash](https://github.com/Anushantony1996/Class-Task/assets/138283153/7eb5f871-b9a5-4df9-b6e1-b8ae87102d6c)
