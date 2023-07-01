@@ -19,7 +19,8 @@
 # Safety Instructions
 
 - Do not use this appliance near water.
-- Do not use this appliance near bathtubs, showers, basins, or other vessels containing water. ![shower](https://github.com/Anushantony1996/Class-Task/assets/138283153/9c8fc07f-f276-4709-93f6-0a71190f8bc7)
+- Do not use this appliance near bathtubs, showers, basins, or other vessels containing water.
+![shower](https://github.com/Anushantony1996/Class-Task/assets/138283153/9c8fc07f-f276-4709-93f6-0a71190f8bc7)
 - Always unplug the appliance after use.
 - Do not pull the power cord after using. Always unplug the appliance by holding the plug.
 - Burn hazard. Keep appliance out of reach from young children, particularly during use and cool down.
