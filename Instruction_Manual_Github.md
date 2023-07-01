@@ -20,6 +20,9 @@
 
 - Do not use this appliance near **water**.
 - Do not use this appliance near bathtubs, showers, basins, or other vessels containing water.
+
+![shower](https://github.com/Anushantony1996/Class-Task/assets/138283153/6efed326-843f-41db-bf93-1fbfb56a1fd5)
+
 - Always __unplug__ the appliance after use.
 - Do not pull the power cord after using. Always unplug the appliance by holding the plug.
 - __*Burn hazard*__. Keep appliance out of reach from young children, particularly during use and cool down.
